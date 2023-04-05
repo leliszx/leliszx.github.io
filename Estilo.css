@@ -4,3 +4,6 @@ p {
     border-width: 5px;
     border-color: cyan;
 }
+.espacamento_24 {
+    padding: 24px;
+}
